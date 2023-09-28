@@ -1,6 +1,6 @@
 # Welcome to My GitHub Repository
 
-![Header Image]([link_to_header_image.png](https://res.cloudinary.com/dqbpcswn9/image/upload/v1695032484/tv5xnegitnaweckl5z1p.png) <!-- Optional: Add a header image -->
+![Project 1 Screenshot](https://res.cloudinary.com/dqbpcswn9/image/upload/v1695032484/tv5xnegitnaweckl5z1p.png)
 
 ## About Me
 
@@ -26,36 +26,22 @@ In this project i build the best friend of all travelers: it displays sights you
 
 ## Table of Contents
 
-- [Skills](#skills)
-- [Contact](#contact)
-- [Connect with Me](#connect-with-me)
+- [Skills](React, Next Js, MongoDB, HTML, CSS)
+- [Contact](areichel1986@gmail.com)
 
 ## Skills
 
 Here are some of the skills and technologies I specialize in:
 
 - Front-end Development: HTML, CSS, JavaScript, React
-- Back-end Development: Node.js, Express.js, Django
-- Database Management: MySQL, PostgreSQL, MongoDB
-- DevOps: Docker, Kubernetes
+- Back-end Development: Node.js, Express.js, Next.js
+- Database Management: MongoDB
 - Version Control: Git, GitHub
-- UI/UX Design: Figma
-- ...and more!
 
 ## Contact
 
 Feel free to reach out to me for collaborations, questions, or just to connect. You can reach me via:
 
 - Email: your.email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- LinkedIn: [Alexander Reichel](https://www.linkedin.com/in/fullstackdeveloperalexanderreichel/)
 
-## Connect with Me
-
-Let's stay connected! Follow me on GitHub to stay updated with my latest projects and contributions.
-
-![GitHub Follow](https://img.shields.io/github/followers/alex-code42?label=Follow%20%40alex-code42&style=social)
-
----
-
-**Note**: Customize this README by replacing the placeholder sections with your actual project details, skills, and contact information. Feel free to add or modify sections to showcase your expertise and personality as a full-stack web developer. Happy coding!
