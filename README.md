@@ -1,7 +1,5 @@
 # Welcome to My GitHub Repository
 
-![Project 1 Screenshot](https://res.cloudinary.com/dqbpcswn9/image/upload/v1695032484/tv5xnegitnaweckl5z1p.png)
-
 ## About Me
 
 👋 Hi, I'm [Alex](https://github.com/alex-code42), a passionate full-stack web developer with a love for crafting elegant and efficient web solutions. With a background in [Marketing, WordPress, e-commerce, and SEO.], I'm dedicated to creating high-quality web applications that deliver exceptional user experiences.
