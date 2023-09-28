@@ -4,7 +4,7 @@
 
 ## About Me
 
-👋 Hi, I'm [Alex R.](https://github.com/alex-code42), a passionate full-stack web developer with a love for crafting elegant and efficient web solutions. With a background in [Marketing, WordPress, e-commerce, and SEO.], I'm dedicated to creating high-quality web applications that deliver exceptional user experiences.
+👋 Hi, I'm [Alex](https://github.com/alex-code42), a passionate full-stack web developer with a love for crafting elegant and efficient web solutions. With a background in [Marketing, WordPress, e-commerce, and SEO.], I'm dedicated to creating high-quality web applications that deliver exceptional user experiences.
 
 ## Projects
 
@@ -12,17 +12,13 @@
 
 The "My Talking Characters" website is a platform that allows users to interact with a collection of characters. 
 
-![Project 1 Screenshot](https://res.cloudinary.com/dqbpcswn9/image/upload/v1695376335/website2_sro3ey.png)
-
-**Link to Project 1:** [Project 1 Repository](https://github.com/alex-code42/mytalkingcharacters)
+**Link to Project 1:** [My Talking Characters](https://github.com/alex-code42/mytalkingcharacters)
 
 ### Tourio App
 
 In this project i build the best friend of all travelers: it displays sights you want to visit and lets you edit them.
 
-![Project 2 Screenshot](https://res.cloudinary.com/dqbpcswn9/image/upload/v1695896430/Bildschirmfoto_2023-09-28_um_12.20.00_cjfvga.png)
-
-**Link to Project 2:** [Project 2 Repository](https://github.com/alex-code42/ali_alex_tourio_app)
+**Link to Project 2:** [Tourio App](https://github.com/alex-code42/ali_alex_tourio_app)
 
 ## Table of Contents
 
