@@ -1,6 +1,6 @@
 # Welcome to My GitHub Repository
 
-![Header Image]([link_to_header_image.png](https://res.cloudinary.com/dqbpcswn9/image/upload/v1695032484/tv5xnegitnaweckl5z1p.png)) <!-- Optional: Add a header image -->
+![Header Image]([link_to_header_image.png](https://res.cloudinary.com/dqbpcswn9/image/upload/v1695032484/tv5xnegitnaweckl5z1p.png) <!-- Optional: Add a header image -->
 
 ## About Me
 
