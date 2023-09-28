@@ -20,10 +20,6 @@ In this project i build the best friend of all travelers: it displays sights you
 
 **Link to Project 2:** [Tourio App](https://github.com/alex-code42/ali_alex_tourio_app)
 
-## Table of Contents
-
-- [Skills](React, Next Js, MongoDB, HTML, CSS)
-- [Contact](areichel1986@gmail.com)
 
 ## Skills
 
@@ -38,6 +34,6 @@ Here are some of the skills and technologies I specialize in:
 
 Feel free to reach out to me for collaborations, questions, or just to connect. You can reach me via:
 
-- Email: your.email@example.com
+- Email: areichel1986@gmail.com
 - LinkedIn: [Alexander Reichel](https://www.linkedin.com/in/fullstackdeveloperalexanderreichel/)
 
