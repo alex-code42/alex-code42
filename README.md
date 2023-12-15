@@ -2,21 +2,27 @@
 
 ## About Me
 
-👋 Hi, I'm [Alex](https://github.com/alex-code42), a passionate full-stack web developer with a love for crafting elegant and efficient web solutions. With a background in [Marketing, WordPress, e-commerce, and SEO.], I'm dedicated to creating high-quality web applications that deliver exceptional user experiences.
+👋 Hi, I'm [Alex](https://github.com/alex-code42), a passionate Web developer with a love for crafting elegant and efficient web solutions. With a background in [Marketing, WordPress, e-commerce, and SEO.], I'm interested in learning al the new things to become a real Fullstack.
 
 ## Projects
 
-### My Talking Characters
+### My Talking Characters - Next.js, React, OpenAI API
 
 The "My Talking Characters" website is a platform that allows users to interact with a collection of characters. 
 
 **Link to Project 1:** [My Talking Characters](https://github.com/alex-code42/mytalkingcharacters)
 
-### Tourio App
+### BerlinVogue Collective - Typescript, Zustand, Contentful & React.js
 
 In this project i build the best friend of all travelers: it displays sights you want to visit and lets you edit them.
 
-**Link to Project 2:** [Tourio App](https://github.com/alex-code42/ali_alex_tourio_app)
+**Link to Project 2:** [TypeScript Onlineshop with Zustand, Contentful and TailwindCss](https://github.com/alex-code42/mytypescript_website)
+
+### About Me Page - Vanilla JavaScript Bootstrap
+
+In this project i showed my Projects in a plain Vanilla JavaScript Onepager
+
+**Link to Project 2:** [Onepager with Vanilla JavaScript and Bootstrap Template](https://github.com/alex-code42/myWebsite2023)
 
 
 ## Skills
