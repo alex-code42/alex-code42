@@ -6,7 +6,7 @@
 
 ## Projects
 
-### My Talking Characters - Next.js, React, OpenAI API
+### My Talking Characters - Next.js, React, MongoDB, RestAPI, OpenAI API
 
 The "My Talking Characters" website is a platform that allows users to interact with a collection of characters. 
 
