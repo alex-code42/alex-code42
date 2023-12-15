@@ -11,18 +11,21 @@
 The "My Talking Characters" website is a platform that allows users to interact with a collection of characters. 
 
 **Link to Project 1:** [My Talking Characters](https://github.com/alex-code42/mytalkingcharacters)
+---
 
 ### BerlinVogue Collective - Typescript, Zustand, Contentful & React.js
 
 In this project i build the best friend of all travelers: it displays sights you want to visit and lets you edit them.
 
 **Link to Project 2:** [TypeScript Onlineshop with Zustand, Contentful and TailwindCss](https://github.com/alex-code42/mytypescript_website)
+---
 
 ### About Me Page - Vanilla JavaScript Bootstrap
 
 In this project i showed my Projects in a plain Vanilla JavaScript Onepager
 
 **Link to Project 2:** [Onepager with Vanilla JavaScript and Bootstrap Template](https://github.com/alex-code42/myWebsite2023)
+---
 
 
 ## Skills
