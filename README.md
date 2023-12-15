@@ -15,7 +15,7 @@ The "My Talking Characters" website is a platform that allows users to interact 
 
 ### BerlinVogue Collective - Typescript, Zustand, Contentful & React.js
 
-In this project i build the best friend of all travelers: it displays sights you want to visit and lets you edit them.
+In this project i build an onlineshop where costomers can put products into the shopping cart and checkout. The shopowner can create blogposts and articles with the the headless Cms Contentful
 
 **Link to Project 2:** [TypeScript Onlineshop with Zustand, Contentful and TailwindCss](https://github.com/alex-code42/mytypescript_website)
 ---
