@@ -24,7 +24,7 @@ In this project i build an onlineshop where costomers can put products into the 
 
 In this project i show my CSS and HTML Skills
 
-**Link to Project 2:** ([****https://github.com/alex-code42/myWebsite2023****](https://github.com/alex-code42/Omnifood-Css))
+**Link to Project 2:** (Omnifood - JavaScript HTML- CSS](https://github.com/alex-code42/Omnifood-Css))
 ---
 
 
