@@ -20,11 +20,11 @@ In this project i build an onlineshop where costomers can put products into the 
 **Link to Project 2:** [TypeScript Onlineshop with Zustand, Contentful and TailwindCss](https://github.com/alex-code42/mytypescript_website)
 ---
 
-### About Me Page - Vanilla JavaScript Bootstrap
+### Omnifood - JavaScript HTML- CSS
 
-In this project i showed my Projects in a plain Vanilla JavaScript Onepager
+In this project i show my CSS and HTML Skills
 
-**Link to Project 2:** [Onepager with Vanilla JavaScript and Bootstrap Template](https://github.com/alex-code42/myWebsite2023)
+**Link to Project 2:** ([****https://github.com/alex-code42/myWebsite2023****](https://github.com/alex-code42/Omnifood-Css))
 ---
 
 
