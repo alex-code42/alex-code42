@@ -10,21 +10,21 @@
 
 The "My Talking Characters" website is a platform that allows users to interact with a collection of characters. 
 
-**Link to Project 1:** [My Talking Characters](https://github.com/alex-code42/mytalkingcharacters)
+[My Talking Characters](https://github.com/alex-code42/mytalkingcharacters)
 ---
 
 ### BerlinVogue Collective - Typescript, Zustand, Contentful & React.js
 
 In this project i build an onlineshop where costomers can put products into the shopping cart and checkout. The shopowner can create blogposts and articles with the the headless Cms Contentful
 
-**Link to Project 2:** [TypeScript Onlineshop with Zustand, Contentful and TailwindCss](https://github.com/alex-code42/mytypescript_website)
+[TypeScript Onlineshop with Zustand, Contentful and TailwindCss](https://github.com/alex-code42/mytypescript_website)
 ---
 
 ### Omnifood - JavaScript HTML- CSS
 
 In this project i show my CSS and HTML Skills
 
-**Link to Project 2:** (Omnifood - JavaScript HTML- CSS](https://github.com/alex-code42/Omnifood-Css))
+ [Omnifood - JavaScript HTML- CSS](https://github.com/alex-code42/Omnifood-Css))
 ---
 
 
